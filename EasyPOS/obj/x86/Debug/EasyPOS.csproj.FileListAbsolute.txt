@@ -1,0 +1,251 @@
+F:\easy\EasyPOS\EasyPOS\bin\Debug\EasyPOS.exe.config
+F:\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.exe
+F:\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.pdb
+F:\easy\EasyPOS\EasyPOS\bin\Debug\EasyPOS.exe
+F:\easy\EasyPOS\EasyPOS\bin\Debug\EasyPOS.pdb
+F:\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.AddEditPCategory.resources
+F:\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.AddEditProduct.resources
+F:\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.AddEditSuppliers.resources
+F:\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.EditPCategory.resources
+F:\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.Form1.resources
+F:\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.Home.resources
+F:\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.Properties.Resources.resources
+F:\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.sales.resources
+F:\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.Users.resources
+F:\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.csproj.GenerateResource.Cache
+F:\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.StockReplenishment.resources
+F:\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.csprojResolveAssemblyReference.cache
+F:\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.VatCodes.resources
+F:\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.PackageMode.resources
+F:\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.Location.resources
+C:\Users\NELLY\Documents\easy\EasyPOS\EasyPOS\bin\Debug\EasyPOS.exe.config
+C:\Users\NELLY\Documents\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.exe
+C:\Users\NELLY\Documents\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.pdb
+C:\Users\NELLY\Documents\easy\EasyPOS\EasyPOS\bin\Debug\EasyPOS.exe
+C:\Users\NELLY\Documents\easy\EasyPOS\EasyPOS\bin\Debug\EasyPOS.pdb
+C:\Users\NELLY\Documents\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.csprojResolveAssemblyReference.cache
+C:\Users\NELLY\Documents\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.AddEditPCategory.resources
+C:\Users\NELLY\Documents\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.AddEditProduct.resources
+C:\Users\NELLY\Documents\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.AddEditSuppliers.resources
+C:\Users\NELLY\Documents\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.EditPCategory.resources
+C:\Users\NELLY\Documents\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.Form1.resources
+C:\Users\NELLY\Documents\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.Home.resources
+C:\Users\NELLY\Documents\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.Location.resources
+C:\Users\NELLY\Documents\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.PackageMode.resources
+C:\Users\NELLY\Documents\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.Properties.Resources.resources
+C:\Users\NELLY\Documents\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.Sales.resources
+C:\Users\NELLY\Documents\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.StockReplenishment.resources
+C:\Users\NELLY\Documents\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.Users.resources
+C:\Users\NELLY\Documents\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.VatCodes.resources
+C:\Users\NELLY\Documents\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.csproj.GenerateResource.Cache
+G:\easy\EasyPOS\EasyPOS\bin\Debug\EasyPOS.exe.config
+G:\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.exe
+G:\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.pdb
+G:\easy\EasyPOS\EasyPOS\bin\Debug\EasyPOS.exe
+G:\easy\EasyPOS\EasyPOS\bin\Debug\EasyPOS.pdb
+G:\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.csprojResolveAssemblyReference.cache
+G:\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.AddEditPCategory.resources
+G:\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.AddEditProduct.resources
+G:\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.AddEditSuppliers.resources
+G:\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.EditPCategory.resources
+G:\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.Form1.resources
+G:\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.Home.resources
+G:\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.Location.resources
+G:\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.PackageMode.resources
+G:\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.Properties.Resources.resources
+G:\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.Sales.resources
+G:\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.StockReplenishment.resources
+G:\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.Users.resources
+G:\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.VatCodes.resources
+G:\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.csproj.GenerateResource.Cache
+D:\easy\EasyPOS\EasyPOS\bin\Debug\EasyPOS.exe.config
+D:\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.exe
+D:\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.pdb
+D:\easy\EasyPOS\EasyPOS\bin\Debug\EasyPOS.exe
+D:\easy\EasyPOS\EasyPOS\bin\Debug\EasyPOS.pdb
+D:\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.AddEditPCategory.resources
+D:\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.AddEditProduct.resources
+D:\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.AddEditSuppliers.resources
+D:\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.EditPCategory.resources
+D:\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.Form1.resources
+D:\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.Home.resources
+D:\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.Location.resources
+D:\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.PackageMode.resources
+D:\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.Properties.Resources.resources
+D:\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.Sales.resources
+D:\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.StockReplenishment.resources
+D:\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.Users.resources
+D:\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.VatCodes.resources
+D:\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.csproj.GenerateResource.Cache
+D:\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.Sales_Report.resources
+D:\easy\EasyPOS\EasyPOS\obj\x86\Debug\RdlCompile.cache
+D:\easy\EasyPOS\EasyPOS\obj\x86\Debug\RdlCompile.compiled
+D:\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.csprojResolveAssemblyReference.cache
+D:\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.frmReceipt.resources
+D:\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.Stocks_Reports.resources
+D:\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.Return_Outwards.resources
+D:\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.Price_List.resources
+D:\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.Replenish_Report.resources
+D:\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.Manage_Sales.resources
+D:\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.Order.resources
+D:\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.Variance_Report.resources
+D:\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.Daily_Sales.resources
+D:\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.AddEditMembers.resources
+C:\Users\dominiccue\Documents\Visual Studio 2010\Projects\easy\EasyPOS\EasyPOS\bin\Debug\EasyPOS.exe.config
+C:\Users\dominiccue\Documents\Visual Studio 2010\Projects\easy\EasyPOS\EasyPOS\bin\Debug\EasyPOS.exe
+C:\Users\dominiccue\Documents\Visual Studio 2010\Projects\easy\EasyPOS\EasyPOS\bin\Debug\EasyPOS.pdb
+C:\Users\dominiccue\Documents\Visual Studio 2010\Projects\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.AddEditMembers.resources
+C:\Users\dominiccue\Documents\Visual Studio 2010\Projects\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.AddEditPCategory.resources
+C:\Users\dominiccue\Documents\Visual Studio 2010\Projects\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.AddEditProduct.resources
+C:\Users\dominiccue\Documents\Visual Studio 2010\Projects\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.AddEditSuppliers.resources
+C:\Users\dominiccue\Documents\Visual Studio 2010\Projects\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.Daily_Sales.resources
+C:\Users\dominiccue\Documents\Visual Studio 2010\Projects\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.EditPCategory.resources
+C:\Users\dominiccue\Documents\Visual Studio 2010\Projects\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.Form1.resources
+C:\Users\dominiccue\Documents\Visual Studio 2010\Projects\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.frmReceipt.resources
+C:\Users\dominiccue\Documents\Visual Studio 2010\Projects\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.Home.resources
+C:\Users\dominiccue\Documents\Visual Studio 2010\Projects\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.Location.resources
+C:\Users\dominiccue\Documents\Visual Studio 2010\Projects\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.Manage_Sales.resources
+C:\Users\dominiccue\Documents\Visual Studio 2010\Projects\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.Order.resources
+C:\Users\dominiccue\Documents\Visual Studio 2010\Projects\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.PackageMode.resources
+C:\Users\dominiccue\Documents\Visual Studio 2010\Projects\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.Price_List.resources
+C:\Users\dominiccue\Documents\Visual Studio 2010\Projects\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.Properties.Resources.resources
+C:\Users\dominiccue\Documents\Visual Studio 2010\Projects\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.Replenish_Report.resources
+C:\Users\dominiccue\Documents\Visual Studio 2010\Projects\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.Return_Outwards.resources
+C:\Users\dominiccue\Documents\Visual Studio 2010\Projects\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.Sales.resources
+C:\Users\dominiccue\Documents\Visual Studio 2010\Projects\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.Sales_Report.resources
+C:\Users\dominiccue\Documents\Visual Studio 2010\Projects\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.stockconversion.resources
+C:\Users\dominiccue\Documents\Visual Studio 2010\Projects\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.StockReplenishment.resources
+C:\Users\dominiccue\Documents\Visual Studio 2010\Projects\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.Stocks_Reports.resources
+C:\Users\dominiccue\Documents\Visual Studio 2010\Projects\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.Users.resources
+C:\Users\dominiccue\Documents\Visual Studio 2010\Projects\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.VatCodes.resources
+C:\Users\dominiccue\Documents\Visual Studio 2010\Projects\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.Variance_Report.resources
+C:\Users\dominiccue\Documents\Visual Studio 2010\Projects\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.csproj.GenerateResource.Cache
+C:\Users\dominiccue\Documents\Visual Studio 2010\Projects\easy\EasyPOS\EasyPOS\obj\x86\Debug\RdlCompile.cache
+C:\Users\dominiccue\Documents\Visual Studio 2010\Projects\easy\EasyPOS\EasyPOS\obj\x86\Debug\RdlCompile.compiled
+C:\Users\dominiccue\Documents\Visual Studio 2010\Projects\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.exe
+C:\Users\dominiccue\Documents\Visual Studio 2010\Projects\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.pdb
+C:\Users\dominiccue\Documents\Visual Studio 2010\Projects\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.csprojResolveAssemblyReference.cache
+C:\Users\dominiccue\Documents\Visual Studio 2010\Projects\easy\EasyPOS\EasyPOS\bin\Debug\PrinterUtility.dll
+\\SERVER-PC\Users\Public\easy\EasyPOS\EasyPOS\bin\Debug\EasyPOS.exe.config
+\\SERVER-PC\Users\Public\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.exe
+\\SERVER-PC\Users\Public\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.pdb
+\\SERVER-PC\Users\Public\easy\EasyPOS\EasyPOS\bin\Debug\EasyPOS.exe
+\\SERVER-PC\Users\Public\easy\EasyPOS\EasyPOS\bin\Debug\EasyPOS.pdb
+\\SERVER-PC\Users\Public\easy\EasyPOS\EasyPOS\bin\Debug\PrinterUtility.dll
+\\SERVER-PC\Users\Public\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.csprojResolveAssemblyReference.cache
+\\SERVER-PC\Users\Public\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.AddEditMembers.resources
+\\SERVER-PC\Users\Public\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.AddEditPCategory.resources
+\\SERVER-PC\Users\Public\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.AddEditProduct.resources
+\\SERVER-PC\Users\Public\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.AddEditSuppliers.resources
+\\SERVER-PC\Users\Public\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.Daily_Sales.resources
+\\SERVER-PC\Users\Public\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.EditPCategory.resources
+\\SERVER-PC\Users\Public\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.Form1.resources
+\\SERVER-PC\Users\Public\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.frmReceipt.resources
+\\SERVER-PC\Users\Public\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.Home.resources
+\\SERVER-PC\Users\Public\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.Location.resources
+\\SERVER-PC\Users\Public\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.Manage_Sales.resources
+\\SERVER-PC\Users\Public\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.Order.resources
+\\SERVER-PC\Users\Public\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.PackageMode.resources
+\\SERVER-PC\Users\Public\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.Price_List.resources
+\\SERVER-PC\Users\Public\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.Properties.Resources.resources
+\\SERVER-PC\Users\Public\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.Replenish_Report.resources
+\\SERVER-PC\Users\Public\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.Return_Outwards.resources
+\\SERVER-PC\Users\Public\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.Sales.resources
+\\SERVER-PC\Users\Public\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.Sales_Report.resources
+\\SERVER-PC\Users\Public\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.stockconversion.resources
+\\SERVER-PC\Users\Public\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.StockReplenishment.resources
+\\SERVER-PC\Users\Public\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.Stocks_Reports.resources
+\\SERVER-PC\Users\Public\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.Users.resources
+\\SERVER-PC\Users\Public\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.VatCodes.resources
+\\SERVER-PC\Users\Public\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.Variance_Report.resources
+\\SERVER-PC\Users\Public\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.csproj.GenerateResource.Cache
+\\SERVER-PC\Users\Public\easy\EasyPOS\EasyPOS\obj\x86\Debug\RdlCompile.cache
+\\SERVER-PC\Users\Public\easy\EasyPOS\EasyPOS\obj\x86\Debug\RdlCompile.compiled
+F:\easypos\easy\EasyPOS\EasyPOS\bin\Debug\EasyPOS.exe.config
+F:\easypos\easy\EasyPOS\EasyPOS\bin\Debug\EasyPOS.exe
+F:\easypos\easy\EasyPOS\EasyPOS\bin\Debug\EasyPOS.pdb
+F:\easypos\easy\EasyPOS\EasyPOS\bin\Debug\PrinterUtility.dll
+F:\easypos\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.AddEditMembers.resources
+F:\easypos\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.AddEditPCategory.resources
+F:\easypos\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.AddEditProduct.resources
+F:\easypos\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.AddEditSuppliers.resources
+F:\easypos\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.Ageing_Analysis.resources
+F:\easypos\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.Creditors_List.resources
+F:\easypos\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.Creditors_Statement.resources
+F:\easypos\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.creditotsList.resources
+F:\easypos\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.Credit_Payment.resources
+F:\easypos\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.CRStatement.resources
+F:\easypos\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.EditPCategory.resources
+F:\easypos\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.Form1.resources
+F:\easypos\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.Home.resources
+F:\easypos\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.Location.resources
+F:\easypos\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.Manage_Sales.resources
+F:\easypos\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.Order.resources
+F:\easypos\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.PackageMode.resources
+F:\easypos\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.Price_List.resources
+F:\easypos\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.Properties.Resources.resources
+F:\easypos\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.Purchases_Report.resources
+F:\easypos\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.Report_sales.resources
+F:\easypos\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.Return_Outwards.resources
+F:\easypos\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.Sales.resources
+F:\easypos\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.Sales_Report.resources
+F:\easypos\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.statement.resources
+F:\easypos\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.stockconversion.resources
+F:\easypos\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.StockReplenishment.resources
+F:\easypos\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.Stocks_Reports.resources
+F:\easypos\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.Stock_Valuation.resources
+F:\easypos\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.Suplier_Statements.resources
+F:\easypos\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.Users.resources
+F:\easypos\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.VatCodes.resources
+F:\easypos\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.Variance_Report.resources
+F:\easypos\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.Vat_Analysis.resources
+F:\easypos\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.csproj.GenerateResource.Cache
+F:\easypos\easy\EasyPOS\EasyPOS\obj\x86\Debug\RdlCompile.cache
+F:\easypos\easy\EasyPOS\EasyPOS\obj\x86\Debug\RdlCompile.compiled
+F:\easypos\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.exe
+F:\easypos\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.pdb
+F:\easypos\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.csprojResolveAssemblyReference.cache
+F:\Zadok\easypos\easy\EasyPOS\EasyPOS\bin\Debug\EasyPOS.exe.config
+F:\Zadok\easypos\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.exe
+F:\Zadok\easypos\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.pdb
+F:\Zadok\easypos\easy\EasyPOS\EasyPOS\bin\Debug\EasyPOS.exe
+F:\Zadok\easypos\easy\EasyPOS\EasyPOS\bin\Debug\EasyPOS.pdb
+F:\Zadok\easypos\easy\EasyPOS\EasyPOS\bin\Debug\PrinterUtility.dll
+F:\Zadok\easypos\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.csprojResolveAssemblyReference.cache
+F:\Zadok\easypos\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.AddEditMembers.resources
+F:\Zadok\easypos\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.AddEditPCategory.resources
+F:\Zadok\easypos\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.AddEditProduct.resources
+F:\Zadok\easypos\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.AddEditSuppliers.resources
+F:\Zadok\easypos\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.Ageing_Analysis.resources
+F:\Zadok\easypos\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.Creditors_List.resources
+F:\Zadok\easypos\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.Creditors_Statement.resources
+F:\Zadok\easypos\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.creditotsList.resources
+F:\Zadok\easypos\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.Credit_Payment.resources
+F:\Zadok\easypos\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.CRStatement.resources
+F:\Zadok\easypos\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.EditPCategory.resources
+F:\Zadok\easypos\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.Form1.resources
+F:\Zadok\easypos\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.Home.resources
+F:\Zadok\easypos\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.Location.resources
+F:\Zadok\easypos\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.Manage_Sales.resources
+F:\Zadok\easypos\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.Order.resources
+F:\Zadok\easypos\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.PackageMode.resources
+F:\Zadok\easypos\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.Price_List.resources
+F:\Zadok\easypos\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.Properties.Resources.resources
+F:\Zadok\easypos\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.Purchases_Report.resources
+F:\Zadok\easypos\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.Report_sales.resources
+F:\Zadok\easypos\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.Return_Outwards.resources
+F:\Zadok\easypos\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.Sales.resources
+F:\Zadok\easypos\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.Sales_Report.resources
+F:\Zadok\easypos\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.statement.resources
+F:\Zadok\easypos\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.stockconversion.resources
+F:\Zadok\easypos\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.StockReplenishment.resources
+F:\Zadok\easypos\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.Stocks_Reports.resources
+F:\Zadok\easypos\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.Stock_Valuation.resources
+F:\Zadok\easypos\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.Suplier_Statements.resources
+F:\Zadok\easypos\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.Users.resources
+F:\Zadok\easypos\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.VatCodes.resources
+F:\Zadok\easypos\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.Variance_Report.resources
+F:\Zadok\easypos\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.Vat_Analysis.resources
+F:\Zadok\easypos\easy\EasyPOS\EasyPOS\obj\x86\Debug\EasyPOS.csproj.GenerateResource.Cache
+F:\Zadok\easypos\easy\EasyPOS\EasyPOS\obj\x86\Debug\RdlCompile.cache
+F:\Zadok\easypos\easy\EasyPOS\EasyPOS\obj\x86\Debug\RdlCompile.compiled

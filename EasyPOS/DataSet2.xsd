@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSet2" targetNamespace="http://tempuri.org/DataSet2.xsd" xmlns:mstns="http://tempuri.org/DataSet2.xsd" xmlns="http://tempuri.org/DataSet2.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="1" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="easyposConnectionString1" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="easyposConnectionString1 (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.EasyPOS.Properties.Settings.GlobalReference.Default.easyposConnectionString1" Provider="System.Data.SqlClient" />
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="easyposConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="easyposConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.EasyPOS.Properties.Settings.GlobalReference.Default.easyposConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="GLedgerTableAdapter" GeneratorDataComponentClassName="GLedgerTableAdapter" Name="GLedger" UserDataComponentName="GLedgerTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="easyposConnectionString (Settings)" DbObjectName="easypos.dbo.GLedger" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="false" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT        GLedger.Date, GLedger.Naration, ISNULL(GLedger.Debit, 0) AS Debit, ISNULL(GLedger.Credit, 0) AS Credit, GLedger.Balance, GLedger.[user], GLedger.transactionNo
+FROM            credit_sales LEFT OUTER JOIN
+                         Credit_Customers ON credit_sales.credit_customerID = Credit_Customers.credit_customerID LEFT OUTER JOIN
+                         GLedger ON Credit_Customers.credit_customerID = GLedger.credit_customerID LEFT OUTER JOIN
+                         creditPayment ON GLedger.credit_customerID = creditPayment.credit_customerID</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="Date" DataSetColumn="Date" />
+              <Mapping SourceColumn="Naration" DataSetColumn="Naration" />
+              <Mapping SourceColumn="Debit" DataSetColumn="Debit" />
+              <Mapping SourceColumn="Credit" DataSetColumn="Credit" />
+              <Mapping SourceColumn="Balance" DataSetColumn="Balance" />
+              <Mapping SourceColumn="user" DataSetColumn="user" />
+              <Mapping SourceColumn="transactionNo" DataSetColumn="transactionNo" />
+            </Mappings>
+            <Sources>
+              <DbSource ConnectionRef="easyposConnectionString1 (Settings)" DbObjectName="easypos.dbo.GLedger" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="FillBy" GenerateMethods="Both" GenerateShortCommands="true" GeneratorGetMethodName="GetDataBy" GeneratorSourceName="FillBy" GetMethodModifier="Public" GetMethodName="GetDataBy" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetDataBy" UserSourceName="FillBy">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT ISNULL(GLedger.Credit, 0) AS Credit, ISNULL(GLedger.Debit, 0) AS Debit, GLedger.Balance, GLedger.Date, GLedger.Naration, GLedger.transactionNo, GLedger.[user] FROM credit_sales LEFT OUTER JOIN Credit_Customers ON credit_sales.credit_customerID = Credit_Customers.credit_customerID LEFT OUTER JOIN GLedger ON Credit_Customers.credit_customerID = GLedger.credit_customerID LEFT OUTER JOIN creditPayment ON GLedger.credit_customerID = creditPayment.credit_customerID</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </Sources>
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSet2" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DataSet2" msprop:Generator_UserDSName="DataSet2">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="GLedger" msprop:Generator_TableClassName="GLedgerDataTable" msprop:Generator_TableVarName="tableGLedger" msprop:Generator_TablePropName="GLedger" msprop:Generator_RowDeletingName="GLedgerRowDeleting" msprop:Generator_RowChangingName="GLedgerRowChanging" msprop:Generator_RowEvHandlerName="GLedgerRowChangeEventHandler" msprop:Generator_RowDeletedName="GLedgerRowDeleted" msprop:Generator_UserTableName="GLedger" msprop:Generator_RowChangedName="GLedgerRowChanged" msprop:Generator_RowEvArgName="GLedgerRowChangeEvent" msprop:Generator_RowClassName="GLedgerRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Date" msprop:Generator_ColumnVarNameInTable="columnDate" msprop:Generator_ColumnPropNameInRow="Date" msprop:Generator_ColumnPropNameInTable="DateColumn" msprop:Generator_UserColumnName="Date" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="Naration" msprop:Generator_ColumnVarNameInTable="columnNaration" msprop:Generator_ColumnPropNameInRow="Naration" msprop:Generator_ColumnPropNameInTable="NarationColumn" msprop:Generator_UserColumnName="Naration" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="2147483647" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Debit" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnDebit" msprop:Generator_ColumnPropNameInRow="Debit" msprop:Generator_ColumnPropNameInTable="DebitColumn" msprop:Generator_UserColumnName="Debit" type="xs:double" minOccurs="0" />
+              <xs:element name="Credit" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnCredit" msprop:Generator_ColumnPropNameInRow="Credit" msprop:Generator_ColumnPropNameInTable="CreditColumn" msprop:Generator_UserColumnName="Credit" type="xs:double" minOccurs="0" />
+              <xs:element name="Balance" msprop:Generator_ColumnVarNameInTable="columnBalance" msprop:Generator_ColumnPropNameInRow="Balance" msprop:Generator_ColumnPropNameInTable="BalanceColumn" msprop:Generator_UserColumnName="Balance" type="xs:double" minOccurs="0" />
+              <xs:element name="user" msprop:Generator_ColumnVarNameInTable="columnuser" msprop:Generator_ColumnPropNameInRow="user" msprop:Generator_ColumnPropNameInTable="userColumn" msprop:Generator_UserColumnName="user" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="transactionNo" msdata:ReadOnly="true" msdata:AutoIncrement="true" msdata:AutoIncrementSeed="-1" msdata:AutoIncrementStep="-1" msprop:Generator_ColumnVarNameInTable="columntransactionNo" msprop:Generator_ColumnPropNameInRow="transactionNo" msprop:Generator_ColumnPropNameInTable="transactionNoColumn" msprop:Generator_UserColumnName="transactionNo" type="xs:long" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1">
+      <xs:selector xpath=".//mstns:GLedger" />
+      <xs:field xpath="mstns:transactionNo" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

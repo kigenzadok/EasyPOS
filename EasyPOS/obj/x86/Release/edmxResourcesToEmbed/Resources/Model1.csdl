@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="easyposModel" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2008/09/edm">
+  <EntityContainer Name="easyposEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="statements" EntityType="easyposModel.statement" />
+  </EntityContainer>
+  <EntityType Name="statement">
+    <Key>
+      <PropertyRef Name="Debit" />
+      <PropertyRef Name="Credit" />
+    </Key>
+    <Property Name="Date" Type="DateTime" />
+    <Property Name="Naration" Type="String" MaxLength="Max" Unicode="false" FixedLength="false" />
+    <Property Name="Debit" Type="Double" Nullable="false" />
+    <Property Name="Credit" Type="Double" Nullable="false" />
+    <Property Name="Balance" Type="Double" />
+    <Property Name="user" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+  </EntityType>
+</Schema>

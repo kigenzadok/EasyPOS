@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="2.0" xmlns:edmx="http://schemas.microsoft.com/ado/2008/10/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="easyposModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/02/edm/ssdl">
+        <EntityContainer Name="easyposModelStoreContainer">
+          <EntitySet Name="statement" EntityType="easyposModel.Store.statement" store:Type="Views" store:Schema="dbo" store:Name="statement">
+            <DefiningQuery>SELECT 
+      [statement].[Date] AS [Date], 
+      [statement].[Naration] AS [Naration], 
+      [statement].[Debit] AS [Debit], 
+      [statement].[Credit] AS [Credit], 
+      [statement].[Balance] AS [Balance], 
+      [statement].[user] AS [user]
+      FROM [dbo].[statement] AS [statement]</DefiningQuery>
+          </EntitySet>
+        </EntityContainer>
+        <!--Errors Found During Generation:
+      warning 6002: The table/view 'easypos.dbo.statement' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.
+      -->
+        <EntityType Name="statement">
+          <Key>
+            <PropertyRef Name="Debit" />
+            <PropertyRef Name="Credit" />
+          </Key>
+          <Property Name="Date" Type="datetime" />
+          <Property Name="Naration" Type="varchar(max)" />
+          <Property Name="Debit" Type="float" Nullable="false" />
+          <Property Name="Credit" Type="float" Nullable="false" />
+          <Property Name="Balance" Type="float" />
+          <Property Name="user" Type="varchar" MaxLength="50" />
+        </EntityType>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="easyposModel" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2008/09/edm">
+        <EntityContainer Name="easyposEntities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="statements" EntityType="easyposModel.statement" />
+        </EntityContainer>
+        <EntityType Name="statement">
+          <Key>
+            <PropertyRef Name="Debit" />
+            <PropertyRef Name="Credit" />
+          </Key>
+          <Property Name="Date" Type="DateTime" />
+          <Property Name="Naration" Type="String" MaxLength="Max" Unicode="false" FixedLength="false" />
+          <Property Name="Debit" Type="Double" Nullable="false" />
+          <Property Name="Credit" Type="Double" Nullable="false" />
+          <Property Name="Balance" Type="Double" />
+          <Property Name="user" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+        </EntityType>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2008/09/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="easyposModelStoreContainer" CdmEntityContainer="easyposEntities">
+          <EntitySetMapping Name="statements">
+            <EntityTypeMapping TypeName="easyposModel.statement">
+              <MappingFragment StoreEntitySet="statement">
+                <ScalarProperty Name="Date" ColumnName="Date" />
+                <ScalarProperty Name="Naration" ColumnName="Naration" />
+                <ScalarProperty Name="Debit" ColumnName="Debit" />
+                <ScalarProperty Name="Credit" ColumnName="Credit" />
+                <ScalarProperty Name="Balance" ColumnName="Balance" />
+                <ScalarProperty Name="user" ColumnName="user" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2008/10/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="True" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="True" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams>
+      <Diagram Name="Model1">
+        <EntityTypeShape EntityType="easyposModel.statement" Width="1.5" PointX="0.75" PointY="0.75" Height="2.172587890625" IsExpanded="true" />
+      </Diagram>
+    </Diagrams>
+  </Designer>
+</edmx:Edmx>

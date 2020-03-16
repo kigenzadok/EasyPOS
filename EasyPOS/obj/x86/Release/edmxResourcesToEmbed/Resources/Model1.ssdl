@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="easyposModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/02/edm/ssdl">
+  <EntityContainer Name="easyposModelStoreContainer">
+    <EntitySet Name="statement" EntityType="easyposModel.Store.statement" store:Type="Views" store:Schema="dbo" store:Name="statement">
+      <DefiningQuery>SELECT 
+      [statement].[Date] AS [Date], 
+      [statement].[Naration] AS [Naration], 
+      [statement].[Debit] AS [Debit], 
+      [statement].[Credit] AS [Credit], 
+      [statement].[Balance] AS [Balance], 
+      [statement].[user] AS [user]
+      FROM [dbo].[statement] AS [statement]</DefiningQuery>
+    </EntitySet>
+  </EntityContainer>
+  <!--Errors Found During Generation:
+      warning 6002: The table/view 'easypos.dbo.statement' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.
+      -->
+  <EntityType Name="statement">
+    <Key>
+      <PropertyRef Name="Debit" />
+      <PropertyRef Name="Credit" />
+    </Key>
+    <Property Name="Date" Type="datetime" />
+    <Property Name="Naration" Type="varchar(max)" />
+    <Property Name="Debit" Type="float" Nullable="false" />
+    <Property Name="Credit" Type="float" Nullable="false" />
+    <Property Name="Balance" Type="float" />
+    <Property Name="user" Type="varchar" MaxLength="50" />
+  </EntityType>
+</Schema>
